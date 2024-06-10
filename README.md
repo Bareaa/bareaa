@@ -4,7 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://media.licdn.com/dms/image/D4E03AQEsss0iTHcqyQ/profile-displayphoto-shrink_800_800/0/1716497810373?e=1723680000&v=beta&t=nCaVgvIscagslRru8LhrWPP4_L7nqfppsR4aG1Kmt1k"  />
 
 ###
 
